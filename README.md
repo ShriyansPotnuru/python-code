@@ -1,2 +1,1 @@
-# python-code
-My code in python.
+This repositry contains my Python code and assignments
